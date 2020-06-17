@@ -1,5 +1,5 @@
 {
-  "name": "blakejs",
+  "name": "@exodus/blakejs",
   "version": "1.1.0",
   "description": "Pure Javascript implementation of the BLAKE2b and BLAKE2s hash functions",
   "main": "index.js",
